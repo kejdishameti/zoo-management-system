@@ -1,0 +1,15 @@
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.exe
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.deps.json
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.runtimeconfig.json
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.dll
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.pdb
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.AssemblyInfo.cs
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.sourcelink.json
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.dll
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\refint\ZooManagementSystem.dll
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.pdb
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.genruntimeconfig.cache
+C:\Users\Kejdi\source\repos\ZooManagementSystem\ZooManagementSystem\obj\Debug\net8.0\ref\ZooManagementSystem.dll
